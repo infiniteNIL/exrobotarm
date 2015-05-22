@@ -25,3 +25,19 @@ RobotArm.close_grip(port)
 RobotArm.rotate_base(port, :clockwise)
 RobotArm.rotate_base(port, :counter_clockwise)
 ```
+
+**Dependencies**
+
+Requires libusb to be installed. On Raspberry Pi you can do that with:
+
+```
+sudo apt-get install libusb-1.0
+```
+
+On Mac OS X do:
+
+```
+brew install libusb
+```
+
+You are using brew, aren't you? ;)
