@@ -42,7 +42,7 @@ brew install libusb
 
 You are using brew, aren't you? ;)
 
-** References **
+**References**
 
 Two references helped me to get this working
 
